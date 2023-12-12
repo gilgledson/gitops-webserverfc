@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/gilgledson/gitops-webserverfc/compare/v1.1.2...v1.2.0) (2023-12-12)
+
 ### [1.1.2](https://github.com/mokkapps/changelog-generator-demo/compare/v1.1.1...v1.1.2) (2023-12-12)
 
 
